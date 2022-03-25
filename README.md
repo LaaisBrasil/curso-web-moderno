@@ -14,3 +14,12 @@
 6. git commit -m "mensagem" -> "registrando" todas as alteracoes feitas na branch
 
 7. git push -> enviar a branch com as alteracoes feitas
+
+## Fluxo de estudos
+
+*** observacao: para cada sessao do curso  criar uma branch para o desenvolvimento ***
+
+1. Criar branch da sessao 
+2. Desenvolver na branch da sessao
+3. Add e Commitar na branch da sessao (cada aula), na mensagem de commit colocar o nome da aula
+4. A cada aula mandar para o git hub
