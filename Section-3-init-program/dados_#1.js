@@ -20,7 +20,7 @@ console.log(preco + imposto);
 
 nome = "caneta bic" /* uma maneira de
  criar uma varivel - mas se cria algumas 
- incosistencias.; podemos criar com"let
+ inconsistencias.; podemos criar com"let
  tambem. */
 
 console.log(nome)

@@ -14,3 +14,5 @@
 6. git commit -m "mensagem" -> "registrando" todas as alteracoes feitas na branch
 
 7. git push -> enviar a branch com as alteracoes feitas
+
+8. git pull -> puxar todas as alteraçoes que foram feitas

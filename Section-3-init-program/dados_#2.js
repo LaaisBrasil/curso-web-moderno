@@ -62,3 +62,12 @@ console.log ("desafio #1");
  //DESAFIO PESSOAL CONCLUIDO
 
 
+ let a = "ga"
+ let b = "bri"
+ let c = "ela"
+
+ console.log (a + b + c);
+
+
+
+
